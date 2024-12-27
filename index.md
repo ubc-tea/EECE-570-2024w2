@@ -19,13 +19,13 @@ layout: course-multi
 background in machine learning, linear algebra, and coding skills.
 * This course is a combination of lectures and student presentations. We plan to read and discuss recent research papers on the intersection between computer vision and machine learning. We plan to invite internal (within the department) and external speakers to give guest lectures to give introductory and state-of-the-art developments in the area of computer vision and machine learning.
 * This course satisfies the ECE graduate program requirement.
-* Piazza: [https://piazza.com/ubc.ca/winterterm22023/eece570](https://piazza.com/ubc.ca/winterterm22023/eece570)
+* Piazza: [https://piazza.com/ubc.ca/winterterm22024/eece570](https://piazza.com/ubc.ca/winterterm22024/eece570)
 
 {% include resources.html content=site.goals %}
 
 ## <a name="contact">Contacts</a>
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
-* TA: Zhao Chen (beidiz@student.ubc.ca) and Jane Shi ()
+* TA: Zhao Chen () and Jane Shi ()
 * Email: include ‘[EECE 570]’ in the subject.
 
 {% include resources.html content=site.resources %}
@@ -33,7 +33,7 @@ background in machine learning, linear algebra, and coding skills.
 ## <a name="time-and-location">Time and Location</a>
 
 * Location:
-Mon/Wed ∥ 9:30 – 11:00 ∥ Food, Nutrition and Health 30
+Mon/Wed ∥ 9:30 – 11:00 ∥ Food, Nutrition and Health 30!!
 * TA Office Hours: TBA
 * Instructor Office Hours: Weds 15:00-16:00 (by appointment only)
 
