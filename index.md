@@ -25,7 +25,7 @@ background in machine learning, linear algebra, and coding skills.
 
 ## <a name="contact">Contacts</a>
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
-* TA: Beidi Zhao (beidiz@student.ubc.ca)
+* TA: Zhao Chen (beidiz@student.ubc.ca) and Jane Shi ()
 * Email: include ‘[EECE 570]’ in the subject.
 
 {% include resources.html content=site.resources %}
