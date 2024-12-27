@@ -33,7 +33,7 @@ background in machine learning, linear algebra, and coding skills.
 ## <a name="time-and-location">Time and Location</a>
 
 * Location:
-Mon/Wed ∥ 9:30 – 11:00 ∥ Food, Nutrition and Health 30!!
+Mon/Wed ∥ 9:30 – 11:00 ∥ DMP-Floor 2-Room 201
 * TA Office Hours: TBA
 * Instructor Office Hours: Weds 15:00-16:00 (by appointment only)
 
@@ -93,6 +93,92 @@ Vol. 1. No. 10. New York: Springer series in statistics, 2001.
 
 
 <hr>
+
+<style>
+/* Table style */
+table {
+  border-collapse: collapse; /* Combine borders to avoid double lines */
+  width: 100%; /* Make the table responsive to the container */
+}
+
+th, td {
+  border: 1px solid black; /* Add borders around cells */
+  padding: 8px; /* Add padding inside cells for better readability */
+  text-align: left; /* Align text to the left */
+}
+
+th {
+  background-color: #f2f2f2; /* Light gray background for table headers */
+  font-weight: bold; /* Make headers bold */
+}
+</style>
+
+<h1><a name="schedule">Schedule</a></h1>
+
+<p>
+Our schedule will be updated during the semester. Please frequently check the schedule here.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dates</th>
+      <th>Presenters</th>
+      <th>Topics</th>
+      <th>Suggested Papers</th>
+      <th>Submissions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1/8</td>
+      <td>Dr. Xiaoxiao Li</td>
+      <td>Course Introduction</td>
+      <td></td>
+      <td>Signup Piazza</td>
+    </tr>
+    <tr>
+      <td>1/10</td>
+      <td>Dr. Xiaoxiao Li</td>
+      <td>Introduction to general computer vision</td>
+      <td><img width="250" /></td>
+      <td><img width="100" /></td>
+    </tr>
+    <tr>
+      <td>1/15</td>
+      <td>Dr. Xiaoxiao Li</td>
+      <td>Introduction to deep learning</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1/17</td>
+      <td>Dr. Zongwei Zhou (JHU)</td>
+      <td>Medical Imaging: dataset, annotation, and algorithm</td>
+      <td></td>
+      <td>(9:35-10:00) Signup presentation</td>
+    </tr>
+    <tr>
+      <td>1/22</td>
+      <td>Dr. Xiaoxiao Li</td>
+      <td>Feature Learning Techniques (online)</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1/24</td>
+      <td>Dr. Xiaoxiao Li</td>
+      <td>Introduction to federated learning</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <!-- Add more rows for additional entries -->
+  </tbody>
+</table>
+
+
+
+
 
 # <a name="schedule">Schedule</a>
 
