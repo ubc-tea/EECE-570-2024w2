@@ -130,7 +130,7 @@ Our schedule will be updated during the semester. Please frequently check the sc
 | 1/22  | Dr. Xiaoxiao Li | Unsupervised Image Analysis                 |                  |                                  |
 | 1/27  | Dr. Xiaoxiao Li | Introduction to Medical Image Analysis       |                 |                  |
 | 1/29  | Dr. Xiaoxiao Li | Neuroimaging and Pathology Image Analysis    |                  |                           |
-| **2/3**   |  xxx   <br> [peer-review]() <br>  xxx  <br> [peer-review]() | **Presentation** – <br> Medical Image Analysis | xxxx <br> CVPR xxxx [paper]() <br> xxxx <br> ICLR xxxx [paper]()|  Submit review <br> Submit peer-grading           |
+| **2/3**   |  xxx   <br> [peer-review]() <br>  xxx  <br> [peer-review]() | **Presentation** – <br> Medical Image Analysis | A multimodal generative AI copilot for human pathology <br> Nature 2024 [paper](https://www.nature.com/articles/s41586-024-07618-3) <br> NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction <br> NeurIPS 2024 [paper](https://arxiv.org/pdf/2410.19452)|  Submit review <br> Submit peer-grading           |
 | 2/5  |  Dr. Xiaoxiao Li | Vision Foundation Models   |  |  |
 | **2/10**   |  xxx   <br> [peer-review]() <br>  xxx  <br> [peer-review]() | **Presentation** – <br> Vision Foundation Models | xxxx <br> CVPR xxxx [paper]() <br> xxxx <br> ICLR xxxx [paper]()|  Submit review <br> Submit peer-grading           |
 | 2/12  | Invited Talk | TBD                    |                  |                                   |
