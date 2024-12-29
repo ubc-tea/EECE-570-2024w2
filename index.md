@@ -122,14 +122,14 @@ Our schedule will be updated during the semester. Please frequently check the sc
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||---------------------------------||-------------------------------------||:-----------------------------------:|
-| 1/8  | Dr. Xiaoxiao Li | Course Introduction                                           |                  |            Signup Piazza                       | 
-| 1/10  | Dr. Xiaoxiao Li | Introduction to general computer vision                                     |      <img width=250/>            |  <img width=100/>            |
-| 1/15  | Dr. Xiaoxiao Li | Introduction to deep learning                                       |                  |                                   |
-| 1/17  | Dr. Zongwei Zhou (JHU) | Medical Imaging: dataset, annotation, and algorithm         |                  |              （9:35-10:00）Signup presentation                     |
-| 1/22  | Dr. Xiaoxiao Li | Feature Learning Techniques  (online)                 |  |  |
-| 1/24  | Dr. Xiaoxiao Li | Introduction to federated learning                                                      |                  |                                   |
-| 1/29  | Dr. Xiaoxiao Li & Meirui Jiang (CUHK) | Image Classification on Imperfect Data                      |                  |                                   |
-| 1/31  | Dr. Xiaofeng Liu (Harvard) | Generalizable Deep Learning for Medical Image Analysis                    |                  |                                   |
+| 1/6  | Dr. Xiaoxiao Li | Course Introduction                                           |                  |            Signup Piazza                       | 
+| 1/8  | Dr. Xiaoxiao Li | Watching Video <br> [History of Computer Vision](https://www.youtube.com/watch?v=hCewSTTOt_4) <br>                                     |      <img width=250/>            |  <img width=100/>            |
+| 1/13  | Dr. Xiaoxiao Li | Computer Vision Foundations                                       |                  |                                   |
+| 1/15  | Dr. Xiaoxiao Li | Introduction to Deep Learning 1        |                  |              （9:35-10:00）Signup presentation                     |
+| 1/20  | Dr. Xiaoxiao Li | Introduction to Deep Learning 2                |  |  |
+| 1/22  | Dr. Xiaoxiao Li | Image Classification                                                       |                  |                                   |
+| 1/27  | Dr. Xiaoxiao Li | Image Classification on Imperfect Data                      |                  |                                   |
+| 1/29  | Dr. Xiaofeng Liu (Harvard) | Generalizable Deep Learning for Medical Image Analysis                    |                  |                                   |
 | **2/2**   |     Ali and Elahe  <br> [peer-review](https://forms.gle/DL9TttL1WUK58ss76) <br>   Obed  <br> [peer-review](https://forms.gle/L2a98VCLVhRrxBQS7) | **Presentation** – <br> Domain Adaptation and Generalization | Visualizing Adapted Knowledge in Domain Transfer. <br> CVPR 2021 [paper](https://arxiv.org/abs/2104.10602) <br> Sparse Mixture-of-Experts are Domain Generalizable Learners <br> ICLR 2023 [paper](https://openreview.net/pdf?id=RecZ9nB9Q4)|  Submit review <br> Submit peer-grading           |
 | **2/5**   | Kevin and Michael  <br> [peer-review](https://forms.gle/6oFL3CsaRNve4ALX9) <br>   Zhiwei and Zichen  <br> [peer-review](https://forms.gle/mPsCYLHmiWuPmiZQA)  | **Presentation** – <br> Semi-supervised Learning    | FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning <br> ICLR 2023 [paper](https://arxiv.org/abs/2205.07246) <br> Unsupervised Selective Labeling for More Effective Semi-Supervised Learning <br> ECCV 2022 [paper](https://arxiv.org/abs/2110.03006)|  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Mengwei Ren (NYU) | TBA |                  |  
