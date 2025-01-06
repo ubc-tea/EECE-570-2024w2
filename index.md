@@ -34,7 +34,7 @@ background in machine learning, linear algebra, and coding skills.
 
 * Location:
 Mon/Wed ∥ 9:30 – 11:00 ∥ DMP-Floor 2-Room 201
-* TA Office Hours: TBA
+* TA Office Hours: Chen's OH Friday 15:00-16:00
 * Instructor Office Hours: Weds 15:00-16:00 (by appointment only)
 
 {% include resources.html content=site.extra-resources %}
